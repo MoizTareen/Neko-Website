@@ -1,0 +1,85 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+}
+	
+div{
+  background-color:#23272A;
+  color: #7289DA;
+  padding: 20px;
+  font-size: 25px;
+  background-radius: 6px;
+}
+.body{
+  background-color: #2C2F33;
+  color: #FFFFFF;
+}
+p{
+  color: #99AAB5;
+  font-size: 18px;
+}
+.inv{
+  padding:18px;
+  width: 310px;
+  margin: 15px;
+ font-size: 25px;
+  background-color: #7289DA;
+  color: #FFFFFF;
+  border: none;
+  text-align: center;
+  border-radius: 5px;
+  
+}
+.dsc{
+  padding:18px;
+  width: 310px;
+  margin: 15px;
+ font-size: 25px;
+  background-color: #FFFFFF;
+  color: #2C2F33 ;
+  border: none;
+    border-radius: 5px;
+  text-align: center;
+}
+.sugg{
+padding: 0px;
+  margin: 6px;
+  border-radius: 6px;
+  background-color: #2C2F33;
+  background-attachment: fixed;
+}
+.misc{
+  padding: 0px;
+  margin: 6px;
+  border-radius: 6px;
+  background-color: #2C2F33;
+  background-attachment: fixed;
+}
+.minig{
+  padding: 0px;
+  margin: 6px;
+  border-radius: 6px;
+  background-color: #2C2F33;
+}
+.buttons {
+  margin: 50px;
+  display: flex;
+align-items: center;
+align-text: center;
+  justify-content: center;    
+}
+ul{
+  margin: 22px;
+}
+.nav-item{
+  
+  text-decoration: none;
+  margin: 30px;
+}
+a{
+  color: #7289DA;
+}
+h3{
+  font-size: 45px;
+}
