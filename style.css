@@ -8,7 +8,7 @@ div{
   background-color:#23272A;
   color: #7289DA;
   padding: 20px;
-  font-size: 25px;
+  font-size: 20px;
   background-radius: 6px;
 }
 .body{
@@ -81,5 +81,5 @@ a{
   color: #7289DA;
 }
 h3{
-  font-size: 45px;
+  font-size: 35px;
 }
